@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Humayra Amin</h1>
 <h3 align="center">A passionate and dedicated junior frontend developer with an interest in building responsive and interactive web applications. Here you'll find some of my projects and contributions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=humayra-amin&label=Profile%20views&color=0e75b6&style=flat" alt="humayra-amin" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=humayra-amin" alt="humayra-amin" /></a> </p>
 
 - 🔭 I’m currently working on [Pet Adoption Platform Website](https://pet-adoption-a621f.web.app/)
