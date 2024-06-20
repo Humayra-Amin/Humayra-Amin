@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **humaema4576@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_IwfZ7Yz6e4SNjc29GJGcooQYGhhL0nQ/view?usp=drive_link]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1YRd0jsgcZNezSVTc-gVuxSfWz9siRZPm/view]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
