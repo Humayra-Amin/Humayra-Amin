@@ -5,21 +5,29 @@
 
 <!-- About Me Section -->
 <h3 align="center" style="font-family: 'Arial', sans-serif; font-weight: normal; font-style: italic; color: #333;">
-  A passionate and dedicated JUNIOR FRONTEND DEVELOPER with an interest in building responsive and interactive web applications. Here you'll find some of my projects and contributions.
+ 💻 A passionate and dedicated JUNIOR FRONTEND DEVELOPER with an interest in building responsive and interactive web applications. Here you'll find some of my projects and contributions.
 </h3>
 
 <!-- Stats Section -->
-<h3 align="center">Daily Stats</h3>
+## 📊 Daily Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=humayra-amin&show_icons=true&locale=en&bg_color=30,faf7e6,faf7c0" alt="humayra-amin" />
+  <table align="center" border="0">
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=humayra-amin&show_icons=true&locale=en&bg_color=30,faf7e6,faf7c0" alt="humayra-amin" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=humayra-amin&show_icons=true&locale=en&layout=compact&bg_color=30,faf7e6,faf7c0" alt="humayra-amin" /></td>
+    </tr>
+  </table>
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=humayra-amin&background=faf7c0" alt="humayra-amin"/>
 </p>
 
 
+
+
 <!-- Skills Section -->
-<h3 align="center">Skills</h3>
+## 🛠️ Languages and Tools
 <p align="center">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" width="150" height="60"/>
@@ -60,15 +68,17 @@
 </p>
 
 <!-- Connect with Me Section -->
-<h3 align="center">Connect with me:</h3>
+## 🌐 Connect with me
 <p align="center">
   <a href="https://linkedin.com/in/humayraamin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="humayraamin" height="100" width="100" /></a>
 </p>
 
 <!-- Additional Information Section -->
 
+## 📄 Current Overview
+
 - 🌱 I’m currently learning **Nextjs**
 
-- 📫 Reach me through **humaema4576@gmail.com**
+- 📫 Reach me through [EMAIL](humaema4576@gmail.com)
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1YRd0jsgcZNezSVTc-gVuxSfWz9siRZPm/view)
+- 📄 Know about my experiences [HERE](https://drive.google.com/file/d/1YRd0jsgcZNezSVTc-gVuxSfWz9siRZPm/view)
